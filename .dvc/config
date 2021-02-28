@@ -1,0 +1,6 @@
+[core]
+    remote = remote
+['remote "remote"']
+    url = webdavs://lerhard.ddns.net/nextcloud/remote.php/dav/files/tutorial_diss
+    user = 'tutorial_diss'
+    password = '+cI$qA{8QM.?'
