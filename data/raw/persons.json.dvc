@@ -1,0 +1,4 @@
+outs:
+- md5: 649182b06a4b0df4aebea9b9de71420c
+  size: 80120
+  path: persons.json
