@@ -1,0 +1,7 @@
+Summary: (Total items: 1)
+  +- a - 1
+  |   +- a - 1
+  |   +- b - 1
+  +- b - 1
+      +- b - 1
+      +- c - 1
